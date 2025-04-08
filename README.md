@@ -34,4 +34,4 @@ Let's collaborate to create innovative solutions that leverage data analytics an
 - 📫 How to reach me:
 - 📫 **Email:** [tejeshvarmamaddana@gmail.com](mailto:tejeshvarmamaddana@gmail.com)
 - 👥 **LinkedIn:** [Tejesh Varma Maddana](https://www.linkedin.com/in/tejesh11/)
-- 💻 **Portfolio:** [Check out my detailed projects and professional journey]([https://tejeshvarmamaddana.github.io/portfolio/](https://github.com/teja111111?tab=repositories))
+- 💻 **Portfolio:** [Check out my detailed projects and professional journey](https://github.com/teja111111?tab=repositories)
