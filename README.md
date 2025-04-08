@@ -8,7 +8,7 @@ I've always chosen to 𝓯𝓸𝓵𝓵𝓸𝔀 𝓶𝔂 𝓱𝓮𝓪𝓻𝓽, wh
 
 **Professional Journey**
 
-🚀 **Current Role:** Data Analyst at Cardinal Health
+🚀 **Current Role:** Data Analyst at Cardinal Health, USA
    - Building and deploying advanced BI solutions and dashboards that enhance decision-making processes.
    - Specializing in SQL, Power BI, Python, and innovative data management practices.
 
